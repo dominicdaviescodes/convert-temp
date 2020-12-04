@@ -4,6 +4,7 @@ const kelvinInput = document.getElementById('kelvin');
 
 const inputs = document.getElementsByClassName('input');
 
+// loop through the 3 inputs
 for (let i = 0; i < inputs.length; i++) {
   let input = inputs[i];
 
